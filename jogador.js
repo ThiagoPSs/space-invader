@@ -18,7 +18,7 @@ class jogador{
     }
   mover(){
   // aqui sera onde a posicaoX serao alteradas usando o mapa de teclas 
-  return posicaoX;
+ 
   }
   
  atirar(){
